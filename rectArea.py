@@ -1,5 +1,6 @@
 # Program takes user inputs for the length and width of 
 # a rectangle and prints its area and perimeter.
+# To take user input: Run => Run Without Debugging
 # =====================================================
 
 # Enter length of the rectangle in feet
