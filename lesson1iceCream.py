@@ -11,6 +11,6 @@ elif ICRating == 2:
 elif ICRating == 1:
     print("Can't believe I tried it!")
 else:
-    print("Invaild Number")
+    print("Invaild Rating")
 
 
